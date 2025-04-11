@@ -1,0 +1,3 @@
+git remote add origin! https://github.com/SilverTosh/Silver.git/raw/main/path/to/image/kingvon-bot.png.git
+git branch -M main
+git push -u origin main
